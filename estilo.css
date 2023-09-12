@@ -1,0 +1,55 @@
+/* Estilo global */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo del encabezado */
+header {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+img{
+    /* Estilo de la imagen de perfil */
+
+    width: 150px; /* Ajusta el tamaño de la imagen según tus preferencias */
+    height: auto;
+    margin: 10px; /* Agrega márgenes alrededor de la imagen */
+    border-radius: 50%; /* Para hacer que la imagen sea circular (opcional) */
+    display: block; /* Para centrar la imagen */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+/* Estilo de las secciones */
+section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+/* Estilo de títulos de sección */
+h2 {
+    color: #007BFF;
+}
+
+/* Estilo de trabajos anteriores */
+.trabajo {
+    margin-bottom: 20px;
+}
+
+/* Estilo de enlaces de correo electrónico */
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
